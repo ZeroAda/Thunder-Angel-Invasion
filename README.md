@@ -2,6 +2,11 @@
 This is a shooting game developed on pygame, referring to Python  from entry to hand-one
 The following is the original readme file. So cute !
 
+### Attention
+The code has not included extension and music because it's too large
+libopenblas.PYQHXLVVQ7VESDPUVUADXEVJOBGHJPAY.gfortran-win_amd64
+A
+
 ## Alien Invasion Game 雷天使来袭！！
 
 @Author: Orange Killer
